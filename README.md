@@ -2,7 +2,9 @@
 
 Code for the accompanying paper, "*Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach*" 
 
-![high](./blob/main/other/high_gain.gif)
+![high](./other/high_gain.gif)
+![medium](./other/medium_gain.gif)
+![Low](./other/Low_gain1.gif)
 
 ### Dataset
 - Available in the `data` folder
