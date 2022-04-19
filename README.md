@@ -2,6 +2,8 @@
 
 Code for the accompanying paper, "*Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach*" 
 
+![high](https://github.com/abhi25t/nerve_segmentation/blob/main/other/high_gain.gif)
+
 ### Dataset
 - Available in the `data` folder
 - If you wish to change the location of data folder, edit the `DATA_DIR` path in `configurations.ini`
